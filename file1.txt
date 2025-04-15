@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 My second Commit
-=======
-My frist Commit
->>>>>>> main
